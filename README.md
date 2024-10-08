@@ -29,7 +29,7 @@ This is a web application inspired by Yelp, where users can connect with local b
 ## Usage
 
 1. Start the development server: `npm start`.
-2. Open your browser and navigate to `http://localhost:3000` to view the calculator app.
+2. Open your browser and navigate to `http://localhost:3000` to view the app.
 3. Go to sign up and fill in your information.
 4. Then the add window will open to you.
 
